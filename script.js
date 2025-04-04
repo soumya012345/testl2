@@ -68,6 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
         jams: [
             { category: "Mazzana . Chocolate", title: "Mixed Fruit Jam", price: "₹250", rating: 4.7, quantity: "200g▼", img: "./asset/green-apple-sharbat-mapro-1.webp" },
             { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "250g▼", img: "./asset/strawberry-fruit-crush-mapro-1_940x.webp" },
+            { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "220g▼", img: "asset/falchoos-mapro-1_940x.webp" },
             { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "180g▼", img: "./asset/rose-sharbat-mapro-1_940x.webp" },
             { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "300g▼", img: "asset/whole-strawberry-fruit-crush-mapro-1.webp" },
             { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "275g▼", img: "./asset/green-apple-sharbat-mapro-1.webp" },
@@ -90,9 +91,9 @@ document.addEventListener("DOMContentLoaded", () => {
             { category: "Mazzana . Chocolate", title: "Butter Classic Cookie", price: "₹220", rating: 4.5, quantity: "200g▼", img: "asset/falchoos-mapro-1_940x.webp" }
         ],
         chocolates: [
-            { category: "Mazzana . Chocolate", title: "Dark Chocolate Bar", price: "₹350", rating: 4.9, quantity: "100g▼", img: "asset/rose-sharbat-mapro-1_940x.webp" },
+            { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "220g▼", img: "asset/falchoos-mapro-1_940x.webp" },
             { category: "Mazzana . Chocolate", title: "Dark Chocolate Bar", price: "₹350", rating: 4.9, quantity: "120g▼", img: "./asset/green-apple-sharbat-mapro-1.webp" },
-            { category: "Mazzana . Chocolate", title: "Dark Chocolate Bar", price: "₹350", rating: 4.9, quantity: "90g▼", img: "./asset/green-apple-sharbat-mapro-1.webp" },
+            { category: "Mazzana . Chocolate", title: "Pineapple Jam", price: "₹210", rating: 4.6, quantity: "300g▼", img: "asset/whole-strawberry-fruit-crush-mapro-1.webp" },
             { category: "Mazzana . Chocolate", title: "Dark Chocolate Bar", price: "₹350", rating: 4.9, quantity: "110g▼", img: "asset/rose-sharbat-mapro-1_940x.webp" },
             { category: "Mazzana . Chocolate", title: "Dark Chocolate Bar", price: "₹350", rating: 4.9, quantity: "150g▼", img: "./asset/green-apple-sharbat-mapro-1.webp" },
             { category: "Mazzana . Chocolate", title: "Milk Chocolate Bar", price: "₹330▼", rating: 4.7, quantity: "130g▼", img: "asset/rose-sharbat-mapro-1_940x.webp" }
