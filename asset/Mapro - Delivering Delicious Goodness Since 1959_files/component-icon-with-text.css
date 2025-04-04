@@ -1,0 +1,31 @@
+.icon-with-text__container {
+  max-width: 95rem;
+  margin: 0 auto;
+}
+.icon-with-text__header {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+.icon-with-text__grid {
+  margin-top: 7rem;
+  border-radius: 2rem;
+}
+.icon-with-text__griditem {
+  padding: 0 1rem;
+  transform: translateY(-35%);
+}
+
+@media screen and (max-width: 767px) {
+  .icon-with-text__gridicon svg {
+    max-width: 70px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .icon-with-text__grid {
+    margin-top: 9rem;
+  }
+  .icon-with-text__gridtext {
+    margin-top: 1rem;
+  }
+}

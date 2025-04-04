@@ -1,0 +1,23 @@
+.storista-header {
+    display: flex;
+    width: 100%;
+}
+
+.storista-page-w {
+    display: block;
+}
+
+.storista-header-left {
+    justify-content: start;
+    text-align: left;
+}
+
+.storista-header-center {
+    justify-content: center;
+    text-align: center;
+}
+
+.storista-header-right {
+    justify-content: end;
+    text-align: right;
+}
